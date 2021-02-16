@@ -282,6 +282,6 @@ footer {
 
 @media (min-width: 751px) and (max-width: 1199px) {
   body {
-    padding: 0;
+    padding: 1% 5%;
   }
 }
