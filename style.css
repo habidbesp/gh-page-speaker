@@ -218,11 +218,13 @@ footer {
 
   header {
     padding: 0;
-    height: 10vh;
+    height: 25vh;
     display: flex;
     flex-direction: column-reverse;
+    justify-content: space-around;
     margin-bottom: 2rem;
   }
+
   .speaker {
     width: 100%;
     display: flex;
